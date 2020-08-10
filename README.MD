@@ -1,3 +1,10 @@
+Rather than try to say "here's how everyone should evaluate their career", I just compiled a list of questions you can choose from as you feel like to evaluate your career as it stands today.
+
+The questions from this list were compiled from a fairly broad range of sources; they're roughly organized according to Maslow's hierarchy of needs.
+
+Feel free to submit pull requests with your own questions.
+
+# Ways to Evaluate Your Career
 
 1. Am I, broadly speaking, optimistic about my future?
 2. Am I able to express myself fully?
