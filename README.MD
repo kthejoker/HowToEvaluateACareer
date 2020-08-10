@@ -2,7 +2,7 @@ Rather than try to say "here's how everyone should evaluate their career", I jus
 
 The questions from this list were compiled from a fairly broad range of sources; they're roughly organized according to Maslow's hierarchy of needs.
 
-Feel free to submit pull requests with your own questions.
+Feel free to submit pull requests with your own questions!
 
 # Ways to Evaluate Your Career
 
